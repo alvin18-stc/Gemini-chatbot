@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Streaming Search",
+  "description": "A web application that allows users to enter a query and get a streamed response from the Gemini API with Google Search grounding, displaying the AI's answer and the web sources used.",
+  "requestFramePermissions": ["camera"]
+}
